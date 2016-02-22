@@ -5,6 +5,13 @@ pd.set_option('max_columns', 50)
 #%matplotlib inline
 
 
+####URL####
+#http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/
+#http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+#http://www.gregreda.com/2014/12/22/translating-sql-to-pandas/
+#http://wesmckinney.com/blog/groupby-fu-improvements-in-grouping-and-aggregating-data-in-pandas/
+
+
 #################################################
 #########SERIES OBJECT PANDAS####################
 #############INITIALS############################
